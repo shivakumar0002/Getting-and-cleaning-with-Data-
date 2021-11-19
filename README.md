@@ -13,12 +13,8 @@ Cookbook	CodeBook.md	Repo Link
 README	ReadingItNow	Repo Link
 Contributors
 
-FirstName	LastName	Email
-Michael	Galarnyk	mgalarny@gmail.com
-Submit	Pull Request	youremailhere@gmail.com
-License
 
-Anyone may contribute after this assignment is turned in and graded.
+
 
 Blog Posts on the Specialization | John Hopkins Coursera
 
